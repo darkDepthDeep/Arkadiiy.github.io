@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGAA,UAAU,CACN,WAAW,CAAE,sBAAsB,CACnC,GAAG,CAAE,wCAAwC,CAC7C,GAAG,CAAE,+CAA+C,CAAC,2BAA2B,CAChF,yCAAyC,CAAC,cAAc,CACxD,wCAAwC,CAAC,kBAAkB,CAC3D,WAAW,CAAE,MAAM,CACnB,UAAU,CAAE,MAAM,CAGtB,UAAU,CACN,WAAW,CAAE,uBAAuB,CACpC,GAAG,CAAE,mBAAmB,CACxB,GAAG,CAAE,0BAA0B,CAAC,2BAA2B,CAC3D,yCAAyC,CAAC,cAAc,CACxD,wCAAwC,CAAC,kBAAkB,CAC3D,WAAW,CAAE,MAAM,CACnB,UAAU,CAAE,MAAM,CAGtB,UAAU,CACN,WAAW,CAAE,qBAAqB,CAClC,GAAG,CAAE,mBAAmB,CACxB,GAAG,CAAE,0BAA0B,CAAC,2BAA2B,CAC3D,yCAAyC,CAAC,cAAc,CACxD,wCAAwC,CAAC,kBAAkB,CAC3D,WAAW,CAAE,MAAM,CACnB,UAAU,CAAE,MAAM",
+    "sources": [
+        "../sass/blocks/style.scss",
+        "../sass/base/_variables.scss",
+        "../sass/base/_mixins.scss",
+        "../sass/base/_fonts.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
